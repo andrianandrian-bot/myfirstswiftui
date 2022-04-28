@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E15112A4281A73B100419CCE /* GeometryReaderSUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = E15112A3281A73B100419CCE /* GeometryReaderSUI.swift */; };
 		E1BEC489280D398300E772D9 /* StacksSUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BEC488280D398300E772D9 /* StacksSUI.swift */; };
 		E1BEC48B280D3C8500E772D9 /* ZStackSUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BEC48A280D3C8500E772D9 /* ZStackSUI.swift */; };
 		E1BEC48D280D3D1900E772D9 /* TextSUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BEC48C280D3D1900E772D9 /* TextSUI.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E15112A3281A73B100419CCE /* GeometryReaderSUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderSUI.swift; sourceTree = "<group>"; };
 		E1BEC488280D398300E772D9 /* StacksSUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksSUI.swift; sourceTree = "<group>"; };
 		E1BEC48A280D3C8500E772D9 /* ZStackSUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackSUI.swift; sourceTree = "<group>"; };
 		E1BEC48C280D3D1900E772D9 /* TextSUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSUI.swift; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 				E1BEC494280D46FF00E772D9 /* SheetLinkSUI.swift */,
 				E1BEC498280D51EC00E772D9 /* MyExpenseApp */,
 				E1BEC49E280D940E00E772D9 /* PositionViewSUI.swift */,
+				E15112A3281A73B100419CCE /* GeometryReaderSUI.swift */,
 			);
 			path = MyFirstSwiftUI;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 				E1DBA676280C1D9100AA0428 /* TabViewSUI.swift in Sources */,
 				E1DBA669280C04D400AA0428 /* StepperSUI.swift in Sources */,
 				E1DBA662280BF5A300AA0428 /* TextFieldSUI.swift in Sources */,
+				E15112A4281A73B100419CCE /* GeometryReaderSUI.swift in Sources */,
 				E1DBA66B280C06C200AA0428 /* GesturesSUI.swift in Sources */,
 				E1BEC49F280D940E00E772D9 /* PositionViewSUI.swift in Sources */,
 				E1BEC48B280D3C8500E772D9 /* ZStackSUI.swift in Sources */,
@@ -388,7 +392,7 @@
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -419,7 +423,7 @@
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
